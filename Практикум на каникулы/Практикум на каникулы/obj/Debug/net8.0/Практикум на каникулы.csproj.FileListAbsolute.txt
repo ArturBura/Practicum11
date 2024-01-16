@@ -1,0 +1,14 @@
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.AssemblyInfoInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.AssemblyInfo.cs
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.csproj.CoreCompileInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\bin\Debug\net8.0\Практикум на каникулы.exe
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\bin\Debug\net8.0\Практикум на каникулы.deps.json
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\bin\Debug\net8.0\Практикум на каникулы.runtimeconfig.json
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\bin\Debug\net8.0\Практикум на каникулы.dll
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\bin\Debug\net8.0\Практикум на каникулы.pdb
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.dll
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\refint\Практикум на каникулы.dll
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.pdb
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\Практикум на каникулы.genruntimeconfig.cache
+C:\Users\Lucky-Buy.md\source\repos\Практикум на каникулы\Практикум на каникулы\obj\Debug\net8.0\ref\Практикум на каникулы.dll
