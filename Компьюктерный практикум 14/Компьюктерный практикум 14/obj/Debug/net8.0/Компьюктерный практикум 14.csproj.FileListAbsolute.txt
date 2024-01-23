@@ -1,0 +1,14 @@
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\bin\Debug\net8.0\Компьюктерный практикум 14.exe
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\bin\Debug\net8.0\Компьюктерный практикум 14.deps.json
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\bin\Debug\net8.0\Компьюктерный практикум 14.runtimeconfig.json
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\bin\Debug\net8.0\Компьюктерный практикум 14.dll
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\bin\Debug\net8.0\Компьюктерный практикум 14.pdb
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.AssemblyInfoInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.AssemblyInfo.cs
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.csproj.CoreCompileInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.dll
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\refint\Компьюктерный практикум 14.dll
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.pdb
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\Компьюктерный практикум 14.genruntimeconfig.cache
+C:\Users\Lucky-Buy.md\source\repos\Компьюктерный практикум 14\Компьюктерный практикум 14\obj\Debug\net8.0\ref\Компьюктерный практикум 14.dll
